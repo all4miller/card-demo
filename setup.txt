@@ -1,0 +1,5 @@
+nvm use node
+npx create-react-app card-demo
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init (setup tailwind as per https://tailwindcss.com/docs/guides/create-react-app)
+npm install @headlessui/react @heroicons/react
